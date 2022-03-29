@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/LazyPage3.8e61736d.chunk.js","mappings":"2KAEaA,EAAY,WACrB,OACI,0BACI,2CAKZ","sources":["01-lazyload/pages/LazyPage3.tsx"],"sourcesContent":["\n\nexport const LazyPage3 = () => {\n    return (\n        <div>\n            <h1>Lazy page 3</h1>            \n        </div>\n    )\n}\n\nexport default LazyPage3"],"names":["LazyPage3"],"sourceRoot":""}

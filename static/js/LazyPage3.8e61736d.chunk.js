@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkinit_project=self.webpackChunkinit_project||[]).push([[647],{76:function(e,n,t){t.r(n),t.d(n,{LazyPage3:function(){return r}});var i=t(184),r=function(){return(0,i.jsx)("div",{children:(0,i.jsx)("h1",{children:"Lazy page 3"})})};n.default=r}}]);
+//# sourceMappingURL=LazyPage3.8e61736d.chunk.js.map
